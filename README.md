@@ -1,6 +1,6 @@
 # Smart Fleet IoT Platform
 
-> **Business Analysis Case Study**
+> **Product Owner Case Study**
 > End-to-end Business Analysis and Product Ownership for an IoT-enabled Fleet Management Platform
 
 ## 📚 Project Documents
